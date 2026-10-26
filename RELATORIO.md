@@ -1,6 +1,6 @@
 # Relatório do Laboratório: JUnit 5
 
-**Dupla:** _Nome 1_ e _Nome 2_
+**Dupla:** Jonatan Ramires Carboneiro
 **Link do fork:** _https://github.com/..._
 
 ## 1. Resultado final
